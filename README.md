@@ -2,6 +2,7 @@
 
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=MUIC-Modern-Software-Engineering_automated-clean-code&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=MUIC-Modern-Software-Engineering_automated-clean-code)
 
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=PoonwannadoCoding_automated-clean-code&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=PoonwannadoCoding_automated-clean-code)
 ## Setup Instruction
 ```
 poetry install
